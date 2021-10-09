@@ -13,9 +13,9 @@ Nathan Sturtevant - Professor
 
 ## Tech Demo
 
-[Tech Demo web](/UNSURE-Tech-Demo/index.html)
+[Tech Demo web](/TechDemo/index.html)
 
-[Tech Demo Download](UNSURE-Tech-Demo.zip)
+[Tech Demo Download](TechDemo.zip)
   
 ## Vertical Slice
   
