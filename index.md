@@ -1,6 +1,6 @@
 # Team UNSURE Presents: "Let's try again tomorrow"
 
-## Tech Demo (Test update 1)
+## Tech Demo
 
 [Tech Demo web](/TechDemo/index.html)
 
