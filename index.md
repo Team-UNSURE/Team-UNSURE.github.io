@@ -20,31 +20,31 @@ N/A
 
 ## Meet the team
 
+### Programmers
+
+- Andy Le
+- Dave Goel
+- Derek Frevel
+- Gaven Barnes
+- Mikal Kotadia
+
 ### Writers
 
 - Daly Quintal
 
 ### Sound Designers
 
+- Andy Le
 - Dave Goel
-- Andy Le
-
-### Programmers
-
-- Derek Frevel
-- Andy Le
-- Gaven Barnes
-- Deave Goel
-- Mikal Kotadia
 
 ### Artists
 
-- Mikal Kotadia
 - Derek Frevel
+- Mikal Kotadia
 
 ### Other
 
+- **Executive Producer:** Aaron Tripodi
 - **Lead Designer:** Daly Quintal
 - **Producer:** Derek Frevel
-- **Executive Producer:** Aaron Tripodi
 - **Professor:** Nathan Sturtevant
