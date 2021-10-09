@@ -1,15 +1,4 @@
-# Team UNSURE - "Let's try again tomorrow"
-
-Derek Frevel - Programmer / Producer
-Daly Quintal - Writer / Lead Designer
-Andy Le - Musician / Programmer
-Gaven Barnes - Programmer / Writer
-Dave Goel - Programmer / Musician
-Mikal Kotadia - Programmer
-
-Aaron Tripodi - Executive Producer
-
-Nathan Sturtevant - Professor
+# Team UNSURE Presents: "Let's try again tomorrow"
 
 ## Tech Demo
 
@@ -21,14 +10,41 @@ Nathan Sturtevant - Professor
   
 N/A
 
-## Vertical Slice
+## Beta Release
   
 N/A
 
-## Vertical Slice
+## Gold Release
   
 N/A
-  
-## Vertical Slice
-  
-N/A
+
+## Meet the team
+
+### Writers
+
+- Daly Quintal
+
+### Sound Designers
+
+- Dave Goel
+- Andy Le
+
+### Programmers
+
+- Derek Frevel
+- Andy Le
+- Gaven Barnes
+- Deave Goel
+- Mikal Kotadia
+
+### Artists
+
+- Mikal Kotadia
+- Derek Frevel
+
+### Other
+
+- **Lead Designer:** Daly Quintal
+- **Producer:** Derek Frevel
+- **Executive Producer:** Aaron Tripodi
+- **Professor:** Nathan Sturtevant
