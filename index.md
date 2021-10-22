@@ -9,6 +9,7 @@
 ## Vertical Slice
   
 [Vertical Slice](/VSDemo/index.html)
+
 [Vertical Slice Download](TechDemo.zip)
 
 ## Beta Release
