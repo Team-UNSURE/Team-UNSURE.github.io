@@ -1,13 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Demo House 1","order":2,"parentId":5,"scrollX":579,"scrollY":413.5},
-{"id":2,"expanded":true,"name":"Tech Demo Puzzle 1","order":3,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Tech Demo Puzzle 3","order":5,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
-{"id":4,"expanded":true,"name":"Denial Puzzle","order":8,"parentId":5,"scrollX":579,"scrollY":413.5},
-{"id":5,"expanded":true,"name":"Opening","order":1,"parentId":0,"scrollX":579,"scrollY":413.5},
-{"id":6,"expanded":true,"name":"Tech Demo Puzzle 2","order":4,"parentId":1,"scrollX":1092,"scrollY":608},
-{"id":7,"expanded":true,"name":"House","order":6,"parentId":5,"scrollX":832,"scrollY":624.5},
-{"id":8,"expanded":false,"name":"Basement","order":7,"parentId":7,"scrollX":579,"scrollY":413.5},
-{"id":9,"expanded":true,"name":"Bargaining","order":9,"parentId":5,"scrollX":571,"scrollY":364.5},
-{"id":10,"expanded":false,"name":"Depression Puzzle","order":10,"parentId":5,"scrollX":579,"scrollY":413.5}
+{"id":1,"expanded":true,"name":"Demo House 1","order":2,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Tech Demo Puzzle 1","order":3,"parentId":1,"scrollX":893.4545454545455,"scrollY":514.9090909090909},
+{"id":3,"expanded":false,"name":"Tech Demo Puzzle 3","order":5,"parentId":1,"scrollX":436.44444444444446,"scrollY":352},
+{"id":4,"expanded":true,"name":"Denial Puzzle","order":8,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":true,"name":"Opening","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":true,"name":"Tech Demo Puzzle 2","order":4,"parentId":1,"scrollX":893.4545454545455,"scrollY":514.9090909090909},
+{"id":7,"expanded":true,"name":"House","order":6,"parentId":5,"scrollX":832,"scrollY":453},
+{"id":8,"expanded":false,"name":"Basement","order":7,"parentId":7,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":true,"name":"Bargaining","order":9,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":false,"name":"Depression Puzzle","order":10,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":false,"name":"Anger Puzzle","order":11,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":12,"expanded":true,"name":"AngerHouse","order":12,"parentId":5,"scrollX":819,"scrollY":461}
 ]
