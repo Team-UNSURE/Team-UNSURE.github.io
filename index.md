@@ -8,7 +8,7 @@
 - Play the game!
 
 ### Controls
-- Movement: W/A/S/D
+- Movement: Arrow Keys
 - Interact: Space & enter
 - Destroy: E
 
