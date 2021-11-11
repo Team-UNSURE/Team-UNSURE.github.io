@@ -1,28 +1,42 @@
 # Team UNSURE Presents: "Let's try again tomorrow"
 
-## Tech Demo
+## How to play
 
-[Tech Demo web](/TechDemo/index.html)
+### Opening the game
+- Find the Version you wish to play.
+- Click the link that says Version - Web to play in the web browser.
+- Play the game!
 
-[Tech Demo Download](TechDemo.zip)
+### Controls
+- Movement: W/A/S/D
+- Interact: Space & enter
+- Destroy: E
+
+## Version
+
+### Tech Demo
+
+[Tech Demo - Web](/TechDemo/index.html)
+
+[Tech Demo - Download](TechDemo.zip)
   
-## Vertical Slice
+### Vertical Slice
   
-[Vertical Slice](/VSDemo/index.html)
+[Vertical Slice - Web](/VSDemo/index.html)
 
-[Vertical Slice Download](TechDemo.zip)
+[Vertical Slice - Download](TechDemo.zip)
 
-## Beta Release
+### Beta Release
   
-[Beta web](/Beta/index.html)
+[Beta - Web](/Beta/index.html)
 
-[Beta Download](Beta.zip)
+[Beta - Download](Beta.zip)
 
-[Walk through](Walkthrough.zip)
+[Beta - Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
 
-[Beta Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
+[Walkthrough](Walkthrough.zip)
 
-## Gold Release
+### Gold Release
   
 N/A
 
