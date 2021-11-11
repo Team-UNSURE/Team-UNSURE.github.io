@@ -14,15 +14,11 @@
 
 ## Beta Release
   
-N/A
+[Beta](/Beta/index.html)
 
 ## Gold Release
   
 N/A
-
-## Most Recent
-  
-[Most Recent](/Current/index.html)
 
 ## Meet the team
 
