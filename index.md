@@ -30,6 +30,8 @@
   
 [Beta - Web](/Beta/index.html)
 
+[Beta - Download (Google Drive)](https://drive.google.com/file/d/13KbOYQL1vtxu6YvGcet65cYkLrls7cIU/view?usp=sharing)
+
 [Beta - Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
 
 [Walkthrough](Walkthrough.zip)
