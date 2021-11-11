@@ -14,7 +14,13 @@
 
 ## Beta Release
   
-[Beta](/Beta/index.html)
+[Beta web](/Beta/index.html)
+
+[Beta Download](Beta.zip)
+
+[Walk through](Walkthrough.zip)
+
+[Beta Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
 
 ## Gold Release
   
