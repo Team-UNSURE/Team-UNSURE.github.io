@@ -30,8 +30,6 @@
   
 [Beta - Web](/Beta/index.html)
 
-[Beta - Download](Beta.zip)
-
 [Beta - Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
 
 [Walkthrough](Walkthrough.zip)
