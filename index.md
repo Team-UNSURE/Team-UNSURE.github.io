@@ -10,8 +10,8 @@
 ### Controls
 - Movement: Arrow Keys
 - Interact: Space & enter
-- Destroy: E
-- Quick Reset: Tab (only works when inside a puzzle)
+- Destroy: E (Beta and GOLD version)
+- Quick Reset: Tab (Only works when inside a puzzle for the GOLD version)
 
 ## Version
 
