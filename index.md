@@ -40,7 +40,8 @@
 ### Gold Release
   
 [GOLD - Web](/GOLD/index.html)
-[Beta - Download (Google Drive)](GOLD.zip)
+
+[GOLD - Download](GOLD.zip)
 
 ## Meet the team
 
