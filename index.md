@@ -11,6 +11,7 @@
 - Movement: Arrow Keys
 - Interact: Space & enter
 - Destroy: E
+- Quick Reset: Tab (only works when inside a puzzle)
 
 ## Version
 
@@ -38,7 +39,8 @@
 
 ### Gold Release
   
-N/A
+[GOLD - Web](/GOLD/index.html)
+[Beta - Download (Google Drive)](GOLD.zip)
 
 ## Meet the team
 
