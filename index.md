@@ -33,7 +33,7 @@
 
 Beta - Download (Broken)
 
-[Beta - Survey](https://forms.gle/XsQPDHHZtUzMsfZo6)
+Beta - Survey (CLOSED)
 
 ### Gold Release
   
