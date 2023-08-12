@@ -35,13 +35,15 @@ Beta - Download (Broken)
 
 Beta - Survey (CLOSED)
 
+Beta - Walkthrough](Beta Walkthrough.zip)
+
 ### Gold Release
   
 [GOLD - Web](/GOLD/index.html)
 
 [GOLD - Download](GOLD.zip)
 
-[GOLD - Walkthrough](Walkthrough.zip)
+[GOLD - Walkthrough](GOLD Walkthrough.zip)
 
 ## Meet the team
 
