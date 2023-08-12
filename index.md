@@ -35,7 +35,7 @@ Beta - Download (Broken)
 
 Beta - Survey (CLOSED)
 
-Beta - Walkthrough](BetaWalkthrough.zip)
+[Beta - Walkthrough](BetaWalkthrough.zip)
 
 ### Gold Release
   
